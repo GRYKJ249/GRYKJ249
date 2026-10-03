@@ -1,55 +1,39 @@
 <div align="center">
 
-<!-- عنوان متحرك أنيق -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F72585&center=true&vcenter=true&width=500&height=60&lines=WELCOME+TO+MY+PROFILE!;BUILDING+COOL+PROJECTS...;HAPPY+CODING!+🚀" alt="Typing SVG" />
+<!-- 1. عداد الزوار التفاعلي (Visitor Counter) -->
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=ff69b4&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Counter" />
 
-<br>
+<br><br>
 
-<!-- صورة بيكسل أنيميشن ريترو -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1eHN3Znh0ZXV6eWZ0Nnl6a2ptandpaDFnZnUxeWRmYzh0NmZrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svvAQQyVY9/giphy.gif" width="260" alt="Coding Cat">
+<!-- 2. عنوان متحرك فائق التخصيص (Dynamic Typing Banner) -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F5D4&center=true&vcenter=true&width=600&height=70&lines=WELCOME+TO+MY+DIGITAL+REALM!+🚀;FULL-STACK+DEVELOPER+%26+CREATOR;BUILDING+THE+FUTURE+WITH+CODE;ALWAYS+LEARNING+%26+CREATING!" alt="Typing SVG" />
 
-<h3>✨ مرحباً بك في عالمي البرمجي ✨</h3>
-
-<p>
-  <i>"تحويل الأفكار والأسطر البرمجية إلى مشاريع واقعية 💻⚡"</i>
-</p>
-
-<!-- شريط Under Construction كلاسيكي -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-</div>
-
----
-
-### 🚀 نبذة عني (About Me)
-- 🔭 **أعمل حالياً على:** تطوير مشاريع وبوابات ويب إبداعية.
-- 📚 **أتعلم باستمرار:** تقنيات وتطوير الويب الحديثة والذكاء الاصطناعي.
-- 🎯 **هدفي:** بناء تطبيقات ومواقع مميزة وتقديم حلول برمجية قوية.
-
----
-
-### 🛠️ التقنيات والأدوات (Skills & Tools)
-
+<!-- 3. صورة أنيميشن سايبربانك / ريترو -->
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://media.giphy.com/media/qgQUGG4dbv5BLHE4G2/giphy.gif" width="480" alt="Coding Animation">
 </p>
 
----
+<!-- 4. مقولة برمجية متجددة تلقائياً (Random Tech Quote) -->
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://quotes-github-readme-api.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+</a>
 
-### 📊 إحصائيات جيتهاب (GitHub Stats)
+<br><br>
 
-<div align="center">
-  <!-- استبدل YOUR_USERNAME باسم حسابك على GitHub -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radial&hide_border=true" alt="Top Langs" height="150" />
+<!-- 5. كؤوس وإنجازات الحساب (GitHub Trophies) -->
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=6&margin-w=15&margin-h=15&no-bg=true" alt="Trophies" />
+</a>
+
 </div>
 
 ---
 
-<div align="center">
-  <p>⚡ <i>شغف مستمر بالتعلم والتطوير</i> ⚡</p>
-</div>
+### ⚡ بطاقة التعرف السريعة (About Me)
+
+```yaml
+Developer: YOUR_NAME
+Focus: Web Development & AI Integrations
+Learning: Modern Web Technologies & Software Architecture
+Philosophy: "Code is like humor. When you have to explain it, it’s bad."
+Status: ☕ Building awesome projects...
